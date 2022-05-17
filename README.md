@@ -2,7 +2,7 @@
 
 - 🤖 Studying Systems Development at SENAI
 - ☠  I'm in love with One Piece
-- �  My favorite language is Python
+- �  My favorite language is JS
 - 🤑 I am looking for an internship (me indica lá no seu trampo)
 ##
 <div align="center">
