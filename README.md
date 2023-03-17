@@ -1,9 +1,8 @@
 ### Hello World!
 
-- 🤖 Studying Systems Development at SENAI
+- 🤖 Developer at SENAI
 - ☠  I'm in love with One Piece
-- �  My favorite language is JS
-- 🤑 I am looking for an internship (me indica lá no seu trampo)
+- �  My favorite language is JAVA
 ##
 <div align="center">
   <a href="https://github.com/LukasVenancio">
