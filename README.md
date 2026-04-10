@@ -6,6 +6,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/LukasVenancio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasVenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVenancio&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
 ## 🧠 About Me
 
 - 💼 Developer at Avanade  
@@ -25,7 +36,7 @@
 - Microservices architecture
 
 ### 🗄️ Database
-- Postgres
+- PostgreSQL
 - MongoDB
 - Data modeling & performance optimization
 
@@ -45,23 +56,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/LukasVenancio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasVenancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasVenancio&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ## 🛠️ Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
